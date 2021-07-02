@@ -1,2 +1,1 @@
-# DialogueSystem
- 
+Dialogue from the tutorial series.
